@@ -1,3 +1,6 @@
 1. Map out all components - wire frame?
 2. Determine if each component should be a 
 Component or Container
+
+API Info:
+openweathermap.org/forecast5
