@@ -1,3 +1,14 @@
 1. Map out all components - wire frame?
 2. Determine if each component should be a 
 Component or Container
+
+
+API Info:
+openweathermap.org/forecast5
+
+Middleware - Lesson 56
+Middlewares are gatekeepers that can stop/manipulate
+actions. All actions will flow thru middlewares.
+'redux-promise' is a popular middleware package
+
+Only actions and reducers should change app state
