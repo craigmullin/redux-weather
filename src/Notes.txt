@@ -12,3 +12,12 @@ actions. All actions will flow thru middlewares.
 'redux-promise' is a popular middleware package
 
 Only actions and reducers should change app state
+
+---
+Overview:
+-middleware - use react promises (axios, ajax calls)
+-use reducers to avoid manipulating state directly
+-destructure arrays "...state"
+-3rd party libs - Sparklines :(, Trend :)
+-GoogleMap API
+-abstracted chart and map into reusable components
